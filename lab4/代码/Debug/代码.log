@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Data\3-1\3-1\密码学\homework\4\代码\bigint.h(309,64): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+F:\Data\3-1\3-1\密码学\homework\4\代码\bigint.h(357,64): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+F:\Data\3-1\3-1\密码学\homework\4\代码\bigint.h(777,16): warning C4018: “<=”: 有符号/无符号不匹配
+  代码.vcxproj -> F:\Data\3-1\3-1\密码学\homework\4\代码\Debug\代码.exe
